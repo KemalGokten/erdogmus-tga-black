@@ -1,0 +1,6 @@
+:HL["/erdogmus-tga-black/_next/static/chunks/0_vn4idpvz2q-.css","style"]
+:HL["/erdogmus-tga-black/_next/static/media/316b6682b406c2db-s.p.1_k7aq_c5drf2.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/erdogmus-tga-black/_next/static/media/5e4d537aaa9e154b-s.p.1ewykk74tw0il.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/erdogmus-tga-black/_next/static/media/651aaf1801011892-s.p.357dd_6abeqge.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/erdogmus-tga-black/_next/static/media/75affa71d1e2f6a7-s.p.17-aodiw50953.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":0,"slots":{"children":{"name":"locale","param":{"type":"d","key":"tr","siblings":null},"prefetchHints":16,"slots":{"children":{"name":"leistungen","param":null,"prefetchHints":0,"slots":{"children":{"name":"gewerk","param":{"type":"d","key":"heizung","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}}}},"staleTime":300,"buildId":"c99vzu42_8WihSKTN64zq"}
